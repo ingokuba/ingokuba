@@ -12,10 +12,10 @@
 
 <span>
     <a href="https://www.oracle.com/java/">
-        <img src="img/i-code-java-300x352-3854596.webp" height="48px" alt="Java" title="Java" />
+        <img src="img/java.svg" height="48px" alt="Java" title="Java" />
     </a>
     <a href="https://www.hashicorp.com/products/terraform">
-        <img src="img/Terraform_VerticalLogo_ColorWhite_RGB.svg" height="48px" alt="Terraform" title="Terraform" />
+        <img src="img/terraform.png" height="48px" alt="Terraform" title="Terraform" />
     </a>
     <a href="https://www.docker.com/">
         <img src="img/Docker-Moby-logo.webp" height="48px" alt="Docker" title="Docker" />
