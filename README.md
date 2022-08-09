@@ -1,16 +1,46 @@
-### Hi there 👋
+<p align="center">
+    <img src="img/Hello-My-Name-Is-Ingo-Kuba.svg" width="50%" />
+</p>
 
-<!--
-**ingokuba/ingokuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :telescope: Topics I’m currently working on
 
-Here are some ideas to get you started:
+- Enterprise Java applications
+- Developing [Keycloak](https://github.com/keycloak/keycloak) extensions
+- Infrastructure as code with Terraform in Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer_and_pick: Tools I work with
+
+<span>
+    <a href="https://www.oracle.com/java/">
+        <img src="img/i-code-java-300x352-3854596.webp" height="48px" alt="Java" title="Java" />
+    </a>
+    <a href="https://www.hashicorp.com/products/terraform">
+        <img src="img/Terraform_VerticalLogo_ColorWhite_RGB.svg" height="48px" alt="Terraform" title="Terraform" />
+    </a>
+    <a href="https://www.docker.com/">
+        <img src="img/Docker-Moby-logo.webp" height="48px" alt="Docker" title="Docker" />
+    </a>
+    <a href="https://kubernetes.io/">
+        <img src="img/kubernetes.svg" height="48px" alt="Kubernetes" title="Kubernetes" />
+    </a>
+    <a href="https://nodejs.org/">
+        <img src="img/nodejs.png" height="48px" alt="Node JS" title="Node JS" />
+    </a>
+    <a href="https://www.typescriptlang.org/">
+        <img src="img/typescript.png" height="48px" alt="TypeScript" title="TypeScript" />
+    </a>
+</span>
+
+### :cloud: Cloud providers I've worked with
+
+<span>
+    <a href="https://azure.microsoft.com/">
+        <img src="img/azure.svg" height="48px" alt="Azure" title="Azure Cloud" />
+    </a>
+    <a href="https://aws.amazon.com/">
+        <img src="img/Amazon_Web_Services_Logo.svg" height="48px" alt="AWS" title="Amazon Web Services" />
+    </a>
+    <a href="https://cloud.google.com/">
+        <img src="img/google_cloud-icon.svg" height="48px" alt="Google Cloud" title="Google Cloud" />
+    </a>
+</span>
