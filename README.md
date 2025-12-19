@@ -6,7 +6,8 @@
 
 - Enterprise Java applications
 - Developing [Keycloak](https://github.com/keycloak/keycloak) extensions
-- Infrastructure as code with Terraform in Azure
+- Automating anything with CI/CD
+- Infrastructure as code with Terraform
 
 ### :hammer_and_pick: Tools I work with
 
