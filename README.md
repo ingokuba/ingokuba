@@ -35,13 +35,28 @@
 ### :cloud: Cloud providers I've worked with
 
 <span>
-    <a href="https://azure.microsoft.com/">
-        <img src="img/azure.svg" height="48px" alt="Azure" title="Azure Cloud" />
-    </a>
     <a href="https://aws.amazon.com/">
         <img src="img/Amazon_Web_Services_Logo.svg" height="48px" alt="AWS" title="Amazon Web Services" />
     </a>
     <a href="https://cloud.google.com/">
         <img src="img/google_cloud-icon.svg" height="48px" alt="Google Cloud" title="Google Cloud" />
+    </a>
+    <a href="https://azure.microsoft.com/">
+        <img src="img/azure.svg" height="48px" alt="Azure" title="Azure Cloud" />
+    </a>
+    <a href="https://www.hetzner.com/cloud">
+        <img src="img/hetzner.svg" height="48px" alt="Hetzner" title="Hetzner Cloud" />
+    </a>
+    <a href="https://www.open-telekom-cloud.com">
+        <img src="img/telekom.png" height="48px" alt="OTC" title="Open Telekom Cloud" />
+    </a>
+    <a href="https://cloud.ionos.com">
+        <img src="img/ionos.png" height="48px" alt="IONOS" title="IONOS Cloud" />
+    </a>
+    <a href="https://stackit.com/">
+        <img src="img/stackit.png" height="48px" alt="STACKIT" title="STACKIT Cloud" />
+    </a>
+    <a href="https://www.exoscale.com">
+        <img src="img/exoscale.png" height="48px" alt="Exoscale" title="Exoscale Cloud" />
     </a>
 </span>
