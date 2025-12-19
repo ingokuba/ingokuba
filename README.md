@@ -15,7 +15,10 @@
     <a href="https://www.oracle.com/java/">
         <img src="img/java.svg" height="48px" alt="Java" title="Java" />
     </a>
-    <a href="https://www.hashicorp.com/products/terraform">
+    <a href="https://www.python.org">
+        <img src="img/python.svg" height="48px" alt="Python" title="Python" />
+    </a>
+    <a href="https://opentofu.org">
         <img src="img/terraform.png" height="48px" alt="Terraform" title="Terraform" />
     </a>
     <a href="https://www.docker.com/">
@@ -26,9 +29,6 @@
     </a>
     <a href="https://nodejs.org/">
         <img src="img/nodejs.png" height="48px" alt="Node JS" title="Node JS" />
-    </a>
-    <a href="https://www.typescriptlang.org/">
-        <img src="img/typescript.png" height="48px" alt="TypeScript" title="TypeScript" />
     </a>
 </span>
 
